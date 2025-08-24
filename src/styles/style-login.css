@@ -69,12 +69,7 @@ main {
   }
 
 .form-group input:focus {
-  outline: none;
-}
-
-#user-email:focus {
   outline: 1px solid #3692FF;
-
 }
 
 .pw-wrap {
